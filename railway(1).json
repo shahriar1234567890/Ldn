@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "RAILPACK"
+  },
+  "start": "python شهریار منم.py"
+}
